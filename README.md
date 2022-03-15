@@ -11,3 +11,7 @@ Haleon is a hair salon that uncover the glorious woman inside you.
 ## Name Convention
 
 - BEM
+
+## Author
+
+Ngoc Nguyen: [twitter](https://twitter.com/ngocoder)
